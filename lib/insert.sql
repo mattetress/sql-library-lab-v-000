@@ -18,7 +18,7 @@ INSERT INTO books (title, year, series_id) VALUES
 ("The Two Towers", 1954, 2),
 ("Return of the King", 1954, 2);
 
-INSERT INTO (name, motto, species, author_id, series_id) VALUES
+INSERT INTO books (name, motto, species, author_id, series_id) VALUES
 ('Harry Potter', "I can do it", "Human", 1, 1),
 ("Hermoine", "I'm a witch", "Human", 1, 1),
 ("Hagrid", "I'm not very smart", "Half Giant", 1, 1),
